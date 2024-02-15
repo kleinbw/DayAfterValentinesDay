@@ -1,3 +1,4 @@
+
 # function.py
 # Name: Brianna Jarrell
 # email: jarrelbc@mail.uc.edu
@@ -11,3 +12,8 @@
 
 def jarrelbc():
     print("Brianna Jarrell")
+
+#function.py
+def moorehc():
+    print("Harrison Moore")
+
