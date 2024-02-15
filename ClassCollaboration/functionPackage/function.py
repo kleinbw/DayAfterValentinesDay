@@ -1,4 +1,4 @@
-# functions.py
+# function.py
 # Name: Brianna Jarrell
 # email: jarrelbc@mail.uc.edu
 # Assignment Number: 
